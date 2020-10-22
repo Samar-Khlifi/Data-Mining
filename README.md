@@ -2,6 +2,6 @@
 Data mining TP
 
 
-https://mybinder.org/v2/gh/Samar-Khlifi/Data-Mining.git/master
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Samar-Khlifi/Data-Mining.git/master)
 
 
